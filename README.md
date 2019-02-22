@@ -2,4 +2,7 @@
 exercise in deep learning coursera
 
 ## week2
-Building neural networks
+Building basic neural networks
+
+## week3
+Planar data classification with one hidden layer
